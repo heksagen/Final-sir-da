@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "htGomlVqaWWM0S7cUp3TEBsoIq5bH+v8bO221NKcr9NydzXRF8g4/sbGlxR4OlJvyeLW1TTW4UezMTFWh7+h0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schwa\\source\\repos\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schwa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\schwa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\schwa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\schwa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
